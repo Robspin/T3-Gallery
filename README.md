@@ -1,8 +1,8 @@
 ## T3 Gallery
 
 ### Todo
-* [ ] Deploy
-* [ ] Scaffold basic ui with mock data
+* [x] Deploy
+* [x] Scaffold basic ui with mock data
 * [ ] Actually set up database
 * [ ] Attach database to ui
 * [ ] Add authentication
